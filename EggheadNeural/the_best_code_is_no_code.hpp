@@ -1,13 +1,13 @@
-#define int 
-#define main 
-#define ( 
-#define ) 
-#define { 
-#define std 
-#define " 
-#define ' 
-#define } 
-#define std::string 
-#define string 
-#define cout 
-#define std::cout 
+#define int do{}while(0)
+#define main do{}while(0)
+#define ( do{}while(0)
+#define ) do{}while(0)
+#define { do{}while(0)
+#define std do{}while(0)
+#define " do{}while(0)
+#define ' do{}while(0)
+#define } do{}while(0)
+#define std::string do{}while(0)
+#define string do{}while(0)
+#define cout do{}while(0)
+#define std::cout do{}while(0)
