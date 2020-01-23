@@ -1,0 +1,13 @@
+#define int 
+#define main 
+#define ( 
+#define ) 
+#define { 
+#define std 
+#define " 
+#define ' 
+#define } 
+#define std::string 
+#define string 
+#define cout 
+#define std::cout 
